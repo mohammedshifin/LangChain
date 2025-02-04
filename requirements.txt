@@ -2,6 +2,7 @@
 langchain-openai 
 python-dotenv
 langchain
+langchain-core
 langchain-community
 langchain-anthropic
 langchain-google-genai
