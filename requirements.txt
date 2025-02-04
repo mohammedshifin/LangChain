@@ -16,3 +16,5 @@ firecrawl-py
 langchainhub
 wikipedia 
 tavily-python 
+PyPDF2
+langchain-text-splitters
